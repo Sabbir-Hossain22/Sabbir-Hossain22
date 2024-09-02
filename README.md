@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Machine Learning](https://github.com/Sabbir-Hossain22/Machine-Learning)
 
-- 🌱 I’m currently learning **Machine Learning, NLP**
+- 🌱 I’m currently learning **Machine Learning, NLP, Image Processing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sabbir-Hossain22](https://github.com/Sabbir-Hossain22)
 
