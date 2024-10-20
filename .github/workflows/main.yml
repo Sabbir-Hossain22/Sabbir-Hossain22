@@ -47,7 +47,7 @@ jobs:
           test -f dist/github-contribution-grid-snake.gif
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with: Sabbir-Hossain22
+        with: 
           target_branch: output
           build_dir: dist
         env:
@@ -58,7 +58,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v3
-        with: Sabbir-Hossain22
+        with: 
           cache: yarn
           node-version: 20
       - run: yarn install --frozen-lockfile
@@ -72,7 +72,7 @@ jobs:
       - name: generate-snake-game-from-github-contribution-grid
         id: generate-snake
         uses: ./svg-only
-        with: Sabbir-Hossain22
+        with: 
           github_user_name: platane
           outputs: |
             dist/github-contribution-grid-snake.svg
@@ -85,7 +85,7 @@ jobs:
           test -f dist/github-contribution-grid-snake-dark.svg
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with: Sabbir-Hossain22
+        with: 
           target_branch: output-svg-only
           build_dir: dist
         env:
@@ -96,7 +96,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v3
-        with: Sabbir-Hossain22
+        with: 
           cache: yarn
           node-version: 20
       - run: yarn install --frozen-lockfile
