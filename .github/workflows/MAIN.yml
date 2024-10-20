@@ -14,4 +14,22 @@ jobs:
         uses: platane/snk@v3  # Replace 'v1.0' with the actual version tag available.
         with:
           github_user_name: 'Sabbir-Hossain22'
+jobs:
+  generate-snake-game:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Game
+        uses: platane/snk@v3
+        with:
+          github_user_name: 'Sabbir-Hossain22'
+        id: generate-snake
+
+      - name: Save output as artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake-game-output
+          path: path/to/your/output.svg  # Specify the path where the snake game script outputs the file
             
