@@ -1,17 +1,17 @@
 name: Generate Snake Game from Contributions
 
 on:
-  workflow_dispatch:  # This allows you to manually trigger the workflow from GitHub UI.
+  workflow_dispatch:
 
 jobs:
   generate-snake-game:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3  # Checks out your repository under $GITHUB_WORKSPACE, so your workflow can access it.
+        uses: actions/checkout@v3
 
       - name: Generate Snake Game
-        uses: platane/snk@sha256:1c8a0b51a75ad8cf36b7defddd2187bdbb92bbbb5521a9e6cc5df795b00fc590
+        uses: platane/snk@v3  # Replace 'v1.0' with the actual version tag available.
         with:
-          github_user_name: 'Sabbir-Hossain22'  # Specifies your GitHub username.
+          github_user_name: 'Sabbir-Hossain22'
             
