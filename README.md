@@ -1,8 +1,9 @@
  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&pause=5000&lines=Hi+There!+👋+I'm+Sabbir+Hossain! ;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&pause=5000&lines=Hi+There!+👋+I'm+Sabbir+Hossain!;" />
 </h1>
 
-<h3 align="center">A passionate undergrad student of North South University from Bangladesh.</h3>
+<h3 align="center">A Passionate Undergrad Student of North South University from Bangladesh.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sabbir-Hossain22&label=Profile%20views&color=0e75b6&style=flat" alt="Sabbir-Hossain22" /> </p>
 
 
@@ -11,7 +12,6 @@
 🔭 I’m currently working on Flood Guard Project<br>👯 I’m looking to collaborate on an ML-Based Project<br>🤝 I’m looking for help with NLP and DL <br>🌱 I’m currently learning Machine Learning and Theory of Computation.<br>💬 Ask me about Machine Learning<br>⚡ Fun fact: I'm doing the code but don't know what's going on.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sabbir-Hossain22&icon=5&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/itsshihab23/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/its_sabbir_hossain._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sabbir-hossain2022/) 
