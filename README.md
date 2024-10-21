@@ -1,5 +1,5 @@
  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&pause=5000&lines=Hi+There!+👋+I'm+Arefin+Amin!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&pause=5000&lines=Hi+There!+👋+I'm+Sabbir+Hossain!;" />
 </h1>
 
 <h3 align="center">A passionate undergrad student of North South University from Bangladesh.</h3>
