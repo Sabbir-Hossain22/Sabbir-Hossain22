@@ -35,7 +35,7 @@
 ### GitHub Contribution
  <div align="center">
   
-![snake gif](https://github.com/Sabbir-Hossain22/Sabbir-Hossain22/blob/output/github-snake.svg)
+![snake gif](https://github.com/Sabbir-Hossain22/Sabbir-Hossain22/blob/output/github-snake-dark.svg)
 </div>
 
 
