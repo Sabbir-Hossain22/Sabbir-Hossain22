@@ -8,7 +8,10 @@
 
 
 
+
+
 # 💫 About Me:
+<img align="right" alt="Coding" width="180" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGt4E81M1TLVrNXGr62ry0p9M2UzZvYxUHEcJ09JNrCTJPh6T4GJ1XOF0&s">
 🔭 I’m currently working on Flood Guard Project<br>👯 I’m looking to collaborate on an ML-Based Project<br>🤝 I’m looking for help with NLP and DL <br>🌱 I’m currently learning Machine Learning and Theory of Computation.<br>💬 Ask me about Machine Learning<br>⚡ Fun fact: I'm doing the code but don't know what's going on.
 
 ---
