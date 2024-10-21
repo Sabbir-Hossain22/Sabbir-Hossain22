@@ -1,3 +1,12 @@
+ <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&pause=5000&lines=Hi+There!+👋+I'm+Arefin+Amin!;" />
+</h1>
+
+<h3 align="center">A passionate undergrad student of North South University from Bangladesh.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arefin994&label=Profile%20views&color=0e75b6&style=flat" alt="Sabbir-Hossain22" /> </p>
+
+
 # 💫 About Me:
 🔭 I’m currently working on Flood Guard Project<br>👯 I’m looking to collaborate on an ML-Based Project<br>🤝 I’m looking for help with NLP and DL <br>🌱 I’m currently learning Machine Learning and Theory of Computation.<br>💬 Ask me about Machine Learning<br>⚡ Fun fact: I'm doing the code but don't know what's going on.
 
