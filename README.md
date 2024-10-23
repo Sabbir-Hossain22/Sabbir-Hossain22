@@ -36,13 +36,18 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sabbir-Hossain22&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Sabbir-Hossain22&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)![image](https://github.com/user-attachments/assets/1374061e-8959-4d5c-9389-9d143c6cfcdb)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sabbir-Hossain22&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Sabbir-Hossain22&limit=5&theme=merko&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![image](https://github.com/user-attachments/assets/22cafcae-8851-47ef-9ed6-fa84988e2a42)
+
 
 ### GitHub Contribution
  <div align="center">
