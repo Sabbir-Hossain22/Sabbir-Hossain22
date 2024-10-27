@@ -35,7 +35,9 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sabbir-Hossain22&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)![image](https://github.com/user-attachments/assets/1374061e-8959-4d5c-9389-9d143c6cfcdb)
+<a href="https://github.com/Sabbir-Hossain22/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Sabbir-Hossain22&theme=matrix&no-frame=true"/>
+</a>
 
 
 ### ✍️ Random Dev Quote
