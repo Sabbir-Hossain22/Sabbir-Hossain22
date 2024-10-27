@@ -12,7 +12,7 @@
 
 
 # 💫 About Me:
-<img align="right" alt="Coding" width="220" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="190" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 🔭 I’m currently working on Flood Guard Project<br>👯 I’m looking to collaborate on an ML-Based Project<br>🤝 I’m looking for help with NLP and DL <br>🌱 I’m currently learning Machine Learning and Theory of Computation.<br>💬 Ask me about Machine Learning<br>⚡ Fun fact: I'm doing the code but don't know what's going on.
 
 ---
@@ -30,7 +30,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sabbir-Hossain22&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir-Hossain22&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
@@ -47,7 +46,7 @@
 
 
 
-### GitHub Contribution
+### 🥇 GitHub Contribution
  <div align="center">
   
 ![snake gif](https://github.com/Sabbir-Hossain22/Sabbir-Hossain22/blob/output/github-snake.svg)
