@@ -45,14 +45,12 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sabbir-Hossain22&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![image](https://github.com/user-attachments/assets/22cafcae-8851-47ef-9ed6-fa84988e2a42)
 
 
 ### GitHub Contribution
  <div align="center">
   
-![snake gif](https://github.com/Sabbir-Hossain22/Sabbir-Hossain22/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Sabbir-Hossain22/Sabbir-Hossain22/blob/output/github-snake.svg)
 </div>
 
 
