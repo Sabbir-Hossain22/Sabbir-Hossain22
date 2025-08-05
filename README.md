@@ -19,7 +19,7 @@
 
 # 💫 About Me:
 <img align="right" alt="Coding" width="190" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-🔭 I’m currently working on Flood Guard Project<br>👯 I’m looking to collaborate on an ML-Based Project<br>🤝 I’m looking for help with NLP and DL <br>🌱 I’m currently learning Machine Learning and Theory of Computation.<br>💬 Ask me about Machine Learning<br>⚡ Fun fact: I'm doing the code but don't know what's going on.
+🔭 I’m currently working on Annomaly Prediction Project<br>👯 I’m looking to collaborate on an ML-DL Based Project<br>🤝 I’m looking for help with NLP and DL <br>🌱 I’m currently learning Deep Learning and Operating Systems.<br>💬 Ask me about Machine Learning<br>⚡ Fun fact: I'm doing the code but don't know what's going on.
 
 ---
 
