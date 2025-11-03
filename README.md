@@ -56,9 +56,9 @@
 
 ### 🔝 All Contributions This Year
 <div align="center" >
-    <img src="https://github.com/Sabbir-Hossain22/Sabbir-Hossain22/blob/main/profile-3d-contrib/profile-night-view.svg"  />
-</p>
-<br/>
+    <img src="https://github.com/Sabbir-Hossain22/Sabbir-Hossain22/blob/main/profile-3d-contrib/profile-gitblock.svg"  />
+
+</div>
 
 ### 🥇 GitHub Contribution
  <div align="center">
