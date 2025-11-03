@@ -56,7 +56,7 @@
 
 ### 🔝 All Contributions So Far
 <div align="center" >
-    <img src="https://github.com/Sabbir-Hossain22/Sabbir-Hossain22/blob/main/profile-night-view.svg"  />
+    <img src="https://raw.githubusercontent.com/Sabbir-Hossain22/Sabbir-Hossain22/main/profile-night-view.svg"  />
 </p>
 <br/>
 
