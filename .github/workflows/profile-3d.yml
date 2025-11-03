@@ -8,13 +8,18 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # YOU MUST ADD THIS PERMISSIONS BLOCK
+    permissions:
+      contents: write 
+      
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: ${{ github.repository_owner }} # This correctly uses your username
       - name: Commit & Push
         run: |
           git config user.name github-actions
